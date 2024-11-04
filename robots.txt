@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihireeko.github.io/BNU/sitemap_index.txt
+Sitemap: https://ihireeko.github.io/Jxt/sitemap_index.txt
+Sitemap: https://ihireeko.github.io/jpb/sitemap_index.txt
+Sitemap: https://ihireeko.github.io/qdM/sitemap_index.txt
